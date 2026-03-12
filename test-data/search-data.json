@@ -1,0 +1,7 @@
+[
+  {
+    "caseName": "search admin user",
+    "username": "Admin",
+    "expectedUsername": "Admin"
+  }
+]
